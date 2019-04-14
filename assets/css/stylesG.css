@@ -143,7 +143,31 @@ letter-spacing: -1px;
 
 /* Customize Forms */
 #InputName, #InputEmail{
-    width: 35%;
+    width: 65%;
+}
+
+.form-bg{
+    background-color: #5a5a5a;
+    width: 45%;
+    border-radius: 20px;
+    position: relative;
+    left: 3%;
+}
+
+.formMove{
+    position: inherit;
+    left: 7%;
+    top: 2.5%;
+}
+
+label{
+    color: #fff;
+}
+
+/* clients photos */
+.persona{
+    height: 140px;
+    width: 140px;
 }
 
 
